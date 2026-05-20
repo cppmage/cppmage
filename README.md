@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Alexander (cppmage)
+# Hi 👋
 
-<p align="center">
-  <a href="https://leetcode.com/u/cppmage">
-    <img src="https://vercel.app" alt="LeetCode Stats" />
-  </a>
-</p>
+**My Prime projects:**
+* NanoLOB - HFT-like project
+* RIF - Advanced grep
+* SQLid - DBMS
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/cppmage?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/cppmage)
