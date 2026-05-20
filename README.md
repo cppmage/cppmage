@@ -1,8 +1,3 @@
 # Hi 👋
 
-**My Prime projects:**
-* NanoLOB - HFT-like project
-* RIF - Advanced grep
-* SQLid - DBMS
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/cppmage?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/cppmage)
+[![LeetCode](https://img.shields.io/badge/LeetCode-cppmage-green?style=for-the-badge&logo=leetcode)](https://leetcode.com/cppmage)
